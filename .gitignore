@@ -1,0 +1,3 @@
+/target/
+Cargo.lock
+!/target/wasm32-unknown-unknown/release/wasm_kernel.wasm
